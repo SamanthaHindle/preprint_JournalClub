@@ -1,4 +1,4 @@
-## WELCOME to Preprint JC for ALL!!!
+## WELCOME to Preprint Journal Club for ALL!!!
  
 
 Welcome message
