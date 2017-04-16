@@ -11,7 +11,7 @@ beneficial but can also remove information that can be useful to other scientist
 This project aims to develop resources to encourage the hosting of [preprint journal clubs](https://youtu.be/vBeZGzvzsos) at different research institutions around the world. By encouraging the reading of preprints among groups of scientists, we hope to increase awareness of preprints, tackle the assumption that preprints cannot be used responsibly just because they haven't been through the journal peer reviewed process, and to provide opportunitites for young scientists to practice reviewing scientific literature and writing feedback in a professional and constructive manner. These are key skills that should be developed by all scientists. By developing a Journal Club Worksheet, we hope to facilitate the easy uptake of the preprint journal club practice in institutes around the world. **Please join us and help us with our project!**
 
 ### How can you get involved?
-If you are interested in helping us develop this project, or would like to host your own preprint journal club, please let us know by emailing samantha.j.hindle@gmail.com
+If you are interested in helping us develop this project, or would like to host your own preprint journal club, please let us know by emailing samantha.j.hindle@gmail.com or daniela.saderi@gmail.com.
 
 
 
