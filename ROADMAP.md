@@ -5,23 +5,30 @@ We are passionate about Open Science (OS) and we believe [preprints](https://you
 
 Read more about our vision in our [README.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/README.md#preprint_journalclub).
 
+### How to get involved
+
+
+
 ### Timeline
 
 #### Stage I
 
-- [ ] Develop Preprint comment sheet
+- [ ] Write and distribute community opinion survey (pre-project launch survey)
+- [ ] Develop Preprint Review Worksheet
+- [ ] Write Preprint Journal Club Guidelines based on this [syllabus](http://asapbio.org/10-ways)
+
+
 
 #### Stage II
 
-- [ ] Distribute to ASAPbio Ambassadors 
-- [ ] Get feeback
+- [ ] Organize a beta-tester community to test the Preprint Review Worksheet and Guidelines
+- [ ] Get feedback from beta testers
 
 #### Stage III
-
-- [ ] Get contributors to develop field-specific comment sheet 
-- [ ] Spread the word and get institutional involvent
+ 
+- [ ] Spread the word and get institutional involvement
 - [ ] Get feeback
-- [ ] Success metrics
+- [ ] Analyze progress using success metrics (number of active Preprint Journal Clubs, number of posted/published preprint reviews, results of community opinion survey post-project launch)
 
 
 
