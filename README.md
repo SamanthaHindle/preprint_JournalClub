@@ -1,7 +1,11 @@
 ## WELCOME to Preprint Journal Club for ALL!!!
 
 ### What are preprints?
-[Preprints](https://www.youtube.com/watch?v=OjxRAhdbJu8&feature=youtu.be&t=5m36s) are complete pieces of scientific work that have not yet been peer reviewed or published. A preprint is often the exact same manuscript that is submitted to a journal, is stored on a freely accessible public server, and is available to the whole web community within 1-2 days of submission. 
+[Preprints] are complete pieces of scientific work that have not yet been peer reviewed or published. A preprint is often the exact same manuscript that is submitted to a journal, is stored on a freely accessible public server, and is available to the whole web community within 1-2 days of submission. 
+Learn more about preprints:
+https://www.authorea.com/users/2/articles/169587-the-preprint-citation-bump
+https://www.youtube.com/watch?v=OjxRAhdbJu8&feature=youtu.be&t=5m36s
+
 
 ### How can preprints help fix the problems in publishing in biology?
 Publishing in the biological sciences has become a much lenghtier process over the past 30 years and can take 1-2 years from journal submission to final publication. During this peer review process the manuscript can change substatially, which can be 
