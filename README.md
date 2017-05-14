@@ -1,7 +1,7 @@
 ## WELCOME to Preprint Journal Club for ALL!!!
 
 ### What are preprints?
-[Preprints](https://www.authorea.com/users/8850/articles/168656-what-is-a-preprint) are complete pieces of scientific work that have not yet been peer-reviewed or published. Preprint are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that they become available to the whole web community within 1-2 days from submission.
+[Preprints](https://www.authorea.com/users/8850/articles/168656-what-is-a-preprint) are complete pieces of scientific work that have not yet been peer-reviewed or published. Preprints are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that they become available to the whole web community within 1-2 days from submission.
 
 Learn more about preprints:  
 https://www.authorea.com/users/2/articles/169587-the-preprint-citation-bump  
