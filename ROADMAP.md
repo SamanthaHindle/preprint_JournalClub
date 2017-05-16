@@ -23,7 +23,7 @@ You can also get involved in the wider preprint community projects by signing up
 
 #### Stage II
 
-- [ ] Organize a beta-tester community to test the Preprint Review Worksheet and Guidelines
+- [ ] Organize a [beta-tester community](https://github.com/SamanthaHindle/preprint_JournalClub/projects/4) to test the Preprint Review Worksheet and Guidelines
 - [ ] Get feedback from beta testers
 
 #### Stage III
