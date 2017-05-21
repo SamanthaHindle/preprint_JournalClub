@@ -4,3 +4,7 @@ We will have more details here soon but, for now, if you are interested in helpi
 
 You can also get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors)
  
+
+- [ ] Fill out our [community opinion survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/edit)
+- [ ] Help us develop a [Preprint Review Worksheet](
+- [ ] Help us write a Preprint Journal Club Guidelines based on this [syllabus](
