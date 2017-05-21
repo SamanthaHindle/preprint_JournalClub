@@ -7,3 +7,8 @@ Please list links to useful resources for Preprint Journal Clubs and Preprints i
 
 
 ## General Preprint Resources:
+
+https://en.wikipedia.org/wiki/Preprint
+https://www.authorea.com/users/2/articles/169587-the-preprint-citation-bump
+https://researchpreprints.com/
+https://www.youtube.com/watch?v=OjxRAhdbJu8&feature=youtu.be&t=5m36s
