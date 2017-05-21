@@ -2,7 +2,8 @@
  
 - [ ] Fill out our [community opinion survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/edit)
 - [ ] Help us develop a [Preprint Review Worksheet](https://github.com/SamanthaHindle/preprint_JournalClub/projects/1)
-- [ ] Help us write a Preprint Journal Club Guidelines based on this [syllabus](
+- [ ] Help us write Preprint Journal Club Guidelines based on this [syllabus](http://asapbio.org/10-ways)
+- [ ] If you would like to help us test our Preprint JC Guidelines, sign up as a beta-tester [here](
 
 
 We will have more details here soon but, for now, if you are interested in helping us develop this project, or would like to host your own preprint journal club, please let us know by emailing samantha.j.hindle@gmail.com or daniela.saderi@gmail.com.
