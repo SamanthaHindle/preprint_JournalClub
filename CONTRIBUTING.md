@@ -10,9 +10,9 @@ Before getting started with contributing, please:
 Please report any unacceptable behavior to PreprintJC@gmail.com.
 
 ### What are we working on right now?
-Right now we are at Stage 1 of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md) and we are getting ready for the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) on June 1-2 #mozsprint. 
+Right now we are at Stage I of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md) and we are getting ready for the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) on June 1-2 #mozsprint. 
 
-These are some tasks for you if you want to contribute at this phase: 
+These are some tasks for you if you want to contribute at this stage: 
  
 * Fill out our [community opinion survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/edit)
 * Help us distribute our [community opinion survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/edit) and build a community using social media (#PreprintJC)
@@ -28,4 +28,6 @@ If you notice a bug, then raise an issue and label it with the label 'bug'. Then
 
 We will have more details here soon but, for now, if you are interested in helping us develop this project, or would like to host your own preprint journal club, please let us know by emailing PreprintJC@gmail.com.
 
-You can also get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors)
+You can also get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors).
+
+THANK YOU!!!
