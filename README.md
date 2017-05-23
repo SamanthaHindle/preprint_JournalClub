@@ -20,7 +20,7 @@ beneficial but can also remove information that can be useful to other scientist
 68% of the [ASAPbio survey](http://asapbio.org/survey) respondents felt that commentary/evaluation for preprints would make preprints more valuable to the scientific community. This project aims to develop resources to encourage the hosting of [preprint journal clubs](https://youtu.be/vBeZGzvzsos) at research institutions worldwide. By encouraging the reading and evaluation of preprints among groups of scientists, we hope to increase the awareness, usage, and value of preprints in the biological sciences. Additionally, we hope to tackle the assumption that preprints cannot be used responsibly because they haven't been through the journal peer review process. Furthermore, we hope preprint journal clubs will provide opportunitites for young scientists to practice reviewing scientific literature and writing feedback in a professional and constructive manner. These are key skills that should be developed by all scientists. By developing a Journal Club Worksheet, we hope to facilitate the easy uptake of the preprint journal club practice in institutes around the world. **Please join us and help us with our project!**
 
 ### How can you get involved?
-For guidlines on how to contribute to this project, please check out oun CONTRIBUTING.md file.  
+For guidlines on how to contribute to this project, please check out oun [CONTRIBUTING.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/CONTRIBUTING.md) file.  
 You can also email us at PreprintJC@gmail.com.  
 
 Get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors).
