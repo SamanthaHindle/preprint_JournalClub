@@ -1,4 +1,4 @@
-![Alt-text](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/logo.png) 
+![Alt-text](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/logo.png)
 ## WELCOME to Preprint Journal Club!
 
 We are scientists and [ASAPbio](http://asapbio.org/) Ambassadors who want to encourage other scientists to post their scientific outputs as Preprints. We hope to do that by making it easier to start and run a Preprint Journal Club.
