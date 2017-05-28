@@ -18,6 +18,7 @@ These are some tasks for you if you want to contribute at this stage:
 * Help us distribute our [community opinion survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/edit) and build a community using social media (#PreprintJC)
 * Help us develop a [Preprint Review Worksheet](https://github.com/SamanthaHindle/preprint_JournalClub/projects/1)
 * Help us write Preprint Journal Club Guidelines based on this [syllabus](http://asapbio.org/10-ways)
+* Add useful links and comments to our [RESOURCES.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/RESOURCES.md) file
 * If you would like to help us test our Preprint JC Guidelines, sign up as a beta-tester [here](https://github.com/SamanthaHindle/preprint_JournalClub/projects/4)
 
 ### How to report bugs?
