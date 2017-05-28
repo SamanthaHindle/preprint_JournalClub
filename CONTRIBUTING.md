@@ -10,7 +10,7 @@ Before getting started with contributing, please:
 Please report any unacceptable behavior to PreprintJC@gmail.com.
 
 ### What are we working on right now?
-Right now we are at Stage I of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md) and we are getting ready for the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) on June 1-2 #mozsprint. 
+Right now we are at Stage I of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md)) and we are getting ready for the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) on June 1-2 #mozsprint. 
 
 These are some tasks for you if you want to contribute at this stage: 
  
