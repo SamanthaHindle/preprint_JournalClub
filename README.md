@@ -1,6 +1,6 @@
 ## WELCOME to Preprint Journal Club!
 
-We are scientists and [ASAPbio](http://asapbio.org/) Ambassadors who want to encourage other scientists to post their scientific outputs as Preprints. We hope to do that by making it easier to start a run a Preprint Journal Club.
+We are scientists and [ASAPbio](http://asapbio.org/) Ambassadors who want to encourage other scientists to post their scientific outputs as Preprints. We hope to do that by making it easier to start and run a Preprint Journal Club.
 
 ### What are preprints?
 [Preprints](https://www.authorea.com/users/8850/articles/168656-what-is-a-preprint) are complete pieces of scientific work that have not yet been peer reviewed or published. Preprints are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that they become available to the whole web community within 1-2 days from submission.
