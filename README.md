@@ -23,7 +23,7 @@ beneficial but can also remove information that can be useful to other scientist
 For guidlines on how to contribute to this project, please check out oun [CONTRIBUTING.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/CONTRIBUTING.md) file.  
 You can also email us at PreprintJC@gmail.com.  
 
-Get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors). To join the ASAPbio Ambassadors Slack Team, email preprintjc@gmail.com to request an invite.
+Get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors). To join the *ASAPbio Ambassadors Slack Team*, email preprintjc@gmail.com to request an invite.
 
 
 
