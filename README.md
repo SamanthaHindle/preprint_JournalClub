@@ -3,6 +3,8 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/preprint_JournalClub/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) 
 
+*"If you want to be one year behind, don’t read bioRxiv”* – Jeff Leek
+
 We are scientists and [ASAPbio](http://asapbio.org/) Ambassadors who want to encourage other scientists to post their scientific outputs as Preprints. We hope to do that by making it easier to start and run a Preprint Journal Club.
 
 ### What are preprints?
