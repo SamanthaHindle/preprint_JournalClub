@@ -14,4 +14,4 @@ Please list links to useful resources for Preprint Journal Clubs and Preprints i
 * [Wikipedia Preprint site](https://en.wikipedia.org/wiki/Preprint)
 * [Authorea article about Preprints](https://www.authorea.com/users/2/articles/169587-the-preprint-citation-bump)
 * [Research Preprints:](https://researchpreprints.com/) a blog discussing the role of preprints in academia
-* {List of Journals by Preprint Policy]https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy
+* [List of Journals by Preprint Policy]https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy
