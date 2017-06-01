@@ -15,8 +15,8 @@ Right now we are at Stage I of this project (check out our [ROADMAP.md](https://
 These are some tasks for you if you want to contribute at this stage: 
  
 * Fill out our [community opinion survey](https://docs.google.com/forms/d/e/1FAIpQLSdMphGFDxwCfGgmEj-CzbkdVZJs-atV1gHZPE6ZB13xNF8HIw/viewform?usp=sf_link)
-* Help us distribute our [community opinion survey](https://docs.google.com/forms/d/1SQbmUUaMiBUbCNvq1UeXYNVljIftOcA-W1qGF_cr6Pc/edit) and build a community using social media (#PreprintJC)
-* Help us develop a [Preprint Review Worksheet](https://github.com/SamanthaHindle/preprint_JournalClub/projects/1)
+* Help us distribute our [community opinion survey](https://docs.google.com/forms/d/e/1FAIpQLSdMphGFDxwCfGgmEj-CzbkdVZJs-atV1gHZPE6ZB13xNF8HIw/viewform?usp=sf_link) and build a community using social media (#PreprintJC)
+* Help us develop a [Preprint Review Worksheet](https://docs.google.com/document/d/1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM/edit?usp=sharing)
 * Help us write Preprint Journal Club Guidelines based on Prachee Avasthi's syllabus [here](http://asapbio.org/10-ways)
 * Add useful links and comments to our [RESOURCES.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/RESOURCES.md) file
 * If you would like to help us test our Preprint Journal Club Guidelines, sign up as a beta-tester [here](https://github.com/SamanthaHindle/preprint_JournalClub/projects/4)
