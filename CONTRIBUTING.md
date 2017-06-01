@@ -11,7 +11,7 @@ Please report any unacceptable behavior to PreprintJC@gmail.com.
 
 ### What are we working on right now?
 Right now we are at Stage I of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md)) and we are getting ready for the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) on June 1-2 #mozsprint.  
-We have a google folder called [PreprintJC_shared_folder](https://drive.google.com/open?id=1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM) that contains our google docs (see our issues) and a couple of exapmle preprint JC feedback reviews (they are not meant to be the best examples). Feel free to add your own review to a preprint as a google doc so that others.
+We have a google folder called [PreprintJC_shared_folder](https://drive.google.com/open?id=1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM) that contains our google docs (see our issues) and a couple of example preprint JC feedback reviews (they are not meant to be the best examples). Feel free to add your own review to a preprint as a google doc.
 
 These are some tasks for you if you want to contribute at this stage: 
  
