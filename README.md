@@ -15,6 +15,7 @@ https://en.wikipedia.org/wiki/Preprint
 https://www.authorea.com/users/2/articles/169587-the-preprint-citation-bump  
 https://researchpreprints.com/  
 https://www.youtube.com/watch?v=OjxRAhdbJu8&feature=youtu.be&t=5m36s
+https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy
 
 
 ### How can preprints help fix the problems in publishing in biology?
