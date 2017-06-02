@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy
 
 
 ### How can preprints help fix the problems in publishing in biology?
-Publishing in the biological sciences has become a much lenghtier process over the past 30 years and can take 1-2 years from journal submission to final publication. During this peer review process the manuscript can change substatially, which can be 
+Publishing in the biological sciences has become a much lengthier process over the past 30 years and can take 1-2 years from journal submission to final publication. During this peer review process the manuscript can change substantially, which can be 
 beneficial but can also remove information that can be useful to other scientists. Furthermore, once a manuscript is published, it can often be unavailable unless you pay subscription fees. Preprints can solve these problems as they are free and immediately available versions of manuscripts that will later undergo peer review in a journal. In addition, the public servers store all versions of the manuscript so data is never lost, even when a subsequent version no longer includes that data.
 
 ### How can preprint journal clubs help?
