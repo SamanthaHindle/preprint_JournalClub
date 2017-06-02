@@ -9,20 +9,20 @@ Read more about our vision in our [README.md](https://github.com/SamanthaHindle/
 
 #### Stage I
 
-- [] Write and distribute community opinion survey (pre-project launch survey)
-- [] Develop Preprint Review Worksheet
-- [] Write Preprint Journal Club Guidelines based on this [syllabus](http://asapbio.org/10-ways)
+- [ ] Write and distribute community opinion survey (pre-project launch survey)
+- [ ] Develop Preprint Review Worksheet
+- [ ] Write Preprint Journal Club Guidelines based on this [syllabus](http://asapbio.org/10-ways)
 
 #### Stage II
 
-- [] Organize a [beta-tester community](https://github.com/SamanthaHindle/preprint_JournalClub/projects/4) to test the Preprint Review Worksheet and Guidelines
-- [] Get feedback from beta testers
+- [ ] Organize a [beta-tester community](https://github.com/SamanthaHindle/preprint_JournalClub/projects/4) to test the Preprint Review Worksheet and Guidelines
+- [ ] Get feedback from beta testers
 
 #### Stage III
  
-- [] Spread the word and get institutional involvement
-- [] Get feeback
-- [] Analyze progress using success metrics (number of active Preprint Journal Clubs, number of posted/published preprint reviews, results of community opinion survey post-project launch)
+- [ ] Spread the word and get institutional involvement
+- [ ] Get feeback
+- [ ] Analyze progress using success metrics (number of active Preprint Journal Clubs, number of posted/published preprint reviews, results of community opinion survey post-project launch)
 
 
 ### How to get involved
