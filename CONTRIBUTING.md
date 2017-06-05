@@ -15,8 +15,8 @@ We have a google folder called [PreprintJC_shared_folder](https://drive.google.c
 
 These are some tasks for you if you want to contribute at this stage: 
  
-* Fill out our [community opinion survey](https://docs.google.com/forms/d/e/1FAIpQLSdMphGFDxwCfGgmEj-CzbkdVZJs-atV1gHZPE6ZB13xNF8HIw/viewform?usp=sf_link)
-* Help us distribute our [community opinion survey](https://docs.google.com/forms/d/e/1FAIpQLSdMphGFDxwCfGgmEj-CzbkdVZJs-atV1gHZPE6ZB13xNF8HIw/viewform?usp=sf_link) and build a community using social media (#PreprintJC)
+* Fill out our [PREPRINT JC COMMUNITY OPINION SURVEY](https://goo.gl/forms/96u7A3DSpWI7TM7A2)  
+* Help us distribute the survey and build a community using social media (#PreprintJC)
 * Help us develop a [Preprint Review Worksheet](https://docs.google.com/document/d/1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM/edit?usp=sharing)
 * Help us write Preprint Journal Club Guidelines based on Prachee Avasthi's syllabus [here](http://asapbio.org/10-ways)
 * Add useful links and comments to our [RESOURCES.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/RESOURCES.md) file
