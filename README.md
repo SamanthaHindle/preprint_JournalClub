@@ -28,7 +28,7 @@ beneficial but can also remove information that can be useful to other scientist
 
 ### Who are "we" anyway?
 
-The Preprint JC, led by Daniela Saderi and Samantha Hindle, is a new project built from the work initiated by ASAPbio. Samantha and Daniela are both ASAPbio Ambassadors (http://asapbio.org/asapbio-ambassadors), which is a large and diverse community of people dedicated to spreading the word about preprints in their own institutions and scientific communities.
+The Preprint JC, led by Daniela Saderi and Samantha Hindle, is a new project built from the work initiated by ASAPbio. Samantha and Daniela are both [ASAPbio Ambassadors](http://asapbio.org/asapbio-ambassadors), which is a large and diverse community of people dedicated to spreading the word about preprints in their own institutions and scientific communities.
  
 **Samantha** is an Assistant Professional Researcher at the University of California San Francisco and, since ASAPbio’s inception, has closely coordinated with the ASAPbio Founder Ron Vale and Director Jessica Polka. Samantha has co-hosted Preprint Town Hall meetings at her home institution and has represented ASAPbio at Open Science meetings. Samantha also has substantial experience in writing manuscript reviews and is well placed to develop resources for this project.  
 Twitter: @HindleSamantha
