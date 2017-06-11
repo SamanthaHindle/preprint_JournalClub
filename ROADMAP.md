@@ -9,7 +9,7 @@ Read more about our vision in our [README.md](https://github.com/SamanthaHindle/
 
 #### Stage I
 
-- [ ] Write and distribute community opinion survey (pre-project launch survey)
+- [x] Write and distribute community opinion survey (pre-project launch survey)
 - [ ] Develop Preprint Review Worksheet
 - [ ] Write Preprint Journal Club Guidelines based on this [syllabus](http://asapbio.org/10-ways)
 
