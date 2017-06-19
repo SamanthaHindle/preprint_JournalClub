@@ -10,8 +10,7 @@ Before getting started with contributing, please:
 Please report any unacceptable behavior to PreprintJC@gmail.com.
 
 ### What are we working on right now?
-Right now we are at Stage I of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md)) and we are getting ready for the [Mozilla Global Sprint](https://mozilla.github.io/global-sprint/) on June 1-2 #mozsprint.  
-We have a google folder called [PreprintJC_shared_folder](https://drive.google.com/open?id=1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM) that contains our google docs (see our issues) and a couple of example preprint JC feedback reviews (they are not meant to be the best examples). Feel free to add your own review to a preprint as a google doc.
+Right now we are at Stage I of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md)). We have a shared google folder called [PreprintJC_shared_folder](https://drive.google.com/open?id=1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM) that contains the developing Preprint JCs Starter Kit material and a couple of example preprint JC feedback reviews (they are not meant to be the best examples). Feel free to add your own review to a preprint as a google doc.
 
 These are some tasks for you if you want to contribute at this stage: 
  
@@ -28,7 +27,7 @@ There are bound to be bugs in any project, and so we would love it if you could 
 
 If you notice a bug, then raise an issue and label it with the label 'bug'. Then anyone in the contributing community can get right on it, and everything gets fixed faster. THANK YOU!
 
-We will have more details here soon but, for now, if you are interested in helping us develop this project, or would like to host your own preprint journal club, please let us know by emailing PreprintJC@gmail.com.
+We will have more details here soon but, for now, if you are interested in helping us develop this project, or would like to host your own Preprint JC, please let us know by emailing PreprintJC@gmail.com.
 
 You can also get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors).
 
