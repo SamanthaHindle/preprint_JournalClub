@@ -1,4 +1,4 @@
-
+![Alt-text](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/logo.png)
 
 ## Preprint JC Info Doc
 
