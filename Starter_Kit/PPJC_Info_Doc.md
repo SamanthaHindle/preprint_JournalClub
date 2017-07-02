@@ -3,7 +3,7 @@
 ## Preprint JC Info Doc
 
 ### What are preprints?
-[Preprints](https://www.authorea.com/users/8850/articles/168656-what-is-a-preprint) are complete pieces of scientific work that have not yet been peer reviewed or published. Preprints are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers (repositories) such that they become available to the whole web community within 1-2 days from submission. Usually preprints are posted on preprint repositories (see below) either before or at the same time as submission to a journal. Most journals will accept manuscripts that have previously been submitted to a preprint repository (see this [Wikipedia page](https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy) for an extensive list of journals and their preprint acceptance policies). 
+[Preprints](https://www.authorea.com/users/8850/articles/168656-what-is-a-preprint) are complete pieces of scientific work that have not yet been peer reviewed or published. Preprints are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers (repositories) such that they become available to the whole web community within 1-2 days from submission. Usually preprints are posted on preprint repositories (see below) either before or at the same time as submission to a journal. Most journals will accept manuscripts that have previously been submitted to a preprint repository (check out [SHERPA/ROMEO](http://www.sherpa.ac.uk/romeo/index.php) to learn about publishers’ copyright policies and self-archiving). 
  
  
 ### How did the idea of submitting manuscripts to preprint repositories arise?
