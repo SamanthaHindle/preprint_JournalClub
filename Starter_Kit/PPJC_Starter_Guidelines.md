@@ -1,3 +1,5 @@
+![Alt-text](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/logo.png)
+
 ## Preprint JC Starter Guidelines  
 
 Is there a preprint JC running in your department? Wouldy you like to start one? Are you currently participating or running a conventional (postprint) JC in your department? Would you like to start discussing preprints at that JC but you don't know where to start? You are reading the right document!  
