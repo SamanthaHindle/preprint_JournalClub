@@ -10,6 +10,8 @@ an existing postprint JC.
 1. If you attend a regular (postprint) JC, you can start by presenting a preprint whenever your turn to present comes. 
 
 2. If you do not currently attend a JC but there are JCs going on at your institution, you can start by joining one (JCs are fun and a 
-useful way to stay up to date with scientific topics of interest) and then present a preprint on the relevant topic when your turn comes. At the beginnig of your presentation spend 2-3 minutes telling people what preprints are (most researchers already know that but some students might not) and why you think it's important to read and discuss (and write) preprints.  
+useful way to stay up to date with scientific topics of interest) and then present a preprint on the relevant topic when your turn comes. At the beginning of your presentation spend 2-3 minutes telling people what preprints are (most researchers already know that but some students might not) and why you think it's important to read and discuss (and write) preprints (see the Preprint JC Info Doc for more info).  
 
-3. If you are not attending a JC and there aren't JCs that interest you to join you can start you own. 
+3. If you are not attending a JC and there aren't JCs that interest you to join you can start you own. Below is a template email you can tweak and send to your department to recruit people to join your JC.
+
+Email:
