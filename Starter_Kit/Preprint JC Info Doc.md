@@ -33,12 +33,17 @@ There are various preprint repositories (see below) and also website platforms w
  
 Below is a list of all the preprint repositories that post findings in the biological sciences:
  
-[AgriXiv](https://agrixiv.wordpress.com): a preprint repository for agriculture and allied sciences
-[arXiv q-bio](https://arxiv.org/archive/q-bio): a preprint repository for quantitative biology operated by the Cornell University Library. This repository includes manuscripts in the following categories: Biomolecules, Cell Behavior, Genomics, Molecular Networks, Neurons and Cognition, Subcellular Processes, Populations and Evolution, Tissues and Organs, Quantitative Methods, and Other Quantitative Biology.
-[bioRxiv](http://www.biorxiv.org/): a preprint repository for the biological sciences operated by Cold Spring Harbor Laboratory. This repository includes manuscripts in the following areas: Animal behavior and Cognition, Biochemistry, Bioengineering, Bioinformatics, Biophysics, Cancer Biology, Cell Biology, Clinical Trials, Developmental Biology. Ecology, Epidemiology, Evolutionary Biology, Genetics, Genomics, Immunology, Microbiology, Molecular Biology, Neuroscience, Paleontology, PAthology, Pharmacology and Toxicology, Physiology, Plant Biology, Scientific Communication and Education, Synthetic Biology, Systems Biology, and Zoology.
-[PeerJ Preprints](https://peerj.com/preprints/): a preprint repository for the biology and computer sciences. 
-[Preprints.org](https://www.preprints.org/): a preprint repository that posts manuscripts covering many areas of the biology and biomedical science (and other sciences, arts and humanities), including Behavioral Sciences, Biology, Life Sciences, and Medicine and Pharmacology.
-[Wellcome Open Research](https://wellcomeopenresearch.org/): a preprint repository for research funded by the Wellcome Trust mainly in areas of the biological sciences, population health, applied research, humanities and social science.
+   * [AgriXiv](https://agrixiv.wordpress.com): a preprint repository for agriculture and allied sciences
+
+   * [arXiv q-bio](https://arxiv.org/archive/q-bio): a preprint repository for quantitative biology operated by the Cornell University Library. This repository includes manuscripts in the following categories: Biomolecules, Cell Behavior, Genomics, Molecular Networks, Neurons and Cognition, Subcellular Processes, Populations and Evolution, Tissues and Organs, Quantitative Methods, and Other Quantitative Biology.
+
+   * [bioRxiv](http://www.biorxiv.org/): a preprint repository for the biological sciences operated by Cold Spring Harbor Laboratory. This repository includes manuscripts in the following areas: Animal behavior and Cognition, Biochemistry, Bioengineering, Bioinformatics, Biophysics, Cancer Biology, Cell Biology, Clinical Trials, Developmental Biology. Ecology, Epidemiology, Evolutionary Biology, Genetics, Genomics, Immunology, Microbiology, Molecular Biology, Neuroscience, Paleontology, PAthology, Pharmacology and Toxicology, Physiology, Plant Biology, Scientific Communication and Education, Synthetic Biology, Systems Biology, and Zoology.
+
+   * [PeerJ Preprints](https://peerj.com/preprints/): a preprint repository for the biology and computer sciences. 
+
+   * [Preprints.org](https://www.preprints.org/): a preprint repository that posts manuscripts covering many areas of the biology and biomedical science (and other sciences, arts and humanities), including Behavioral Sciences, Biology, Life Sciences, and Medicine and Pharmacology.
+
+   * [Wellcome Open Research](https://wellcomeopenresearch.org/): a preprint repository for research funded by the Wellcome Trust mainly in areas of the biological sciences, population health, applied research, humanities and social science.
  
  
 ### How to post reviews/comments
