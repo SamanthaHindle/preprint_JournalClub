@@ -1,17 +1,14 @@
 ## Preprint JC Review Worksheet
 
 You just discussed a preprint at your last JC and now you want to write up some feedback to the authors? That's awesome! Thank you for 
-supporting preprints for the advancement of scientific discovery. Thank to your feedback the authors will have a chance to enhance the
-understanding and quality of the manuscript you just read for all of us.  
+supporting preprints for the advancement of scientific discovery. Thanks to your feedback the authors will have a chance to enhance the
+understanding and quality of the manuscript you just read, for all of us.  
 
-The following material is meant to guide you in writing your own review. Obviously there are many ways to do it – and every scientist has
-their own "style", but here are a few points we hope will make it easier for you, particulary if you are an early career reseacher (ECR) 
-who has not much experience with writing scientific peer reviwes. Don't feel like you have to answers all of those questions. A couple 
-of points are enough, especially if you don't have much time (and we know you don't!). A short comment is better than no comment at all. 
+The following material is meant to guide you in writing your own review. Obviously there are many ways to do it – and every scientist has their own "style", but here are a few points we hope will make it easier for you, particulary if you are an early career reseacher (ECR) who doesn't have much experience with writing scientific peer reviwes. Also, don't feel like you have to answers all of these questions; a couple of points are enough, especially if you don't have much time (and we know you don't!). A short comment is better than no comment at all. 
 
 Please submitt an issue or a pull request if you would like to comment or add more to this content. See the 
 [CONTRIBUTING.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/CONTRIBUTING.md) file for more info on how to 
-contribute. Thank you and happy science review writing!
+contribute. Thank you and happy preprint review writing!
 
 ### 1. Overview and take-home messages:   
 
