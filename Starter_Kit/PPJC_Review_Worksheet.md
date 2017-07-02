@@ -1,3 +1,5 @@
+![Alt-text](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/logo.png)
+
 ## Preprint JC Review Worksheet
 
 You just discussed a preprint at your last JC and now you want to write up some feedback to the authors? That's awesome! Thank you for 
