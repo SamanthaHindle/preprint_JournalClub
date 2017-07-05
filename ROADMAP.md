@@ -14,7 +14,7 @@ Read more about our vision in the [README.md](https://github.com/SamanthaHindle/
 - [ ] **Alpha testing.** We will engage five ASAPbio ambassadors that are already hosting Preprint JCs to be our alpha testers. We will ask them to commit to one Preprint JC using our Starter Kit. The materials provided will include a sample email to send out to the department announcing the Preprint JC, a guide to discovering preprints on the web, Preprint JC Guidelines for the host, a Preprint Review Worksheet, a Preprint JC flyer template, and a Preprint info sheet containing an infographic description of what preprints are and how they can help advance scientific knowledge and reseacrhers' career. We will then ask our alpha testers to complete a feedback survey that will detail their experience as hosts of a Preprint JC and feedback on the Starter Kit.
 
 
-#### Phase II (October-September 2017)
+#### Phase II (September-November 2017)
 
 - [ ] Organize a [beta-tester community](https://github.com/SamanthaHindle/preprint_JournalClub/projects/4) to test the Preprint JC Starter Kit
 - [ ] Get feedback from beta testers
@@ -29,7 +29,7 @@ The beta testers will be asked to:
     
 To provide a baseline to compare the data to, we will also ask either the same alpha and beta testers (if appropriate) or other randomly selected researchers that normally host conventional JCs to tell us about their own success level and obstacles. 
 
-#### Phase III
+#### Phase III (December 2017 onwards)
  
 - [ ] Spread the word and get institutional involvement
 - [ ] Get feeback
