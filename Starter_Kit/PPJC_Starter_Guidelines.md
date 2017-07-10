@@ -18,12 +18,12 @@ Below, we have written two template emails you can tweak and send to your depart
 
 *Dear students, postdocs, and faculty,*  
 
-*I am … [Introduce yourself if you are not already known by everyone]. I would like to start a preprint journal club (JC) in our department.*
+*I am* … [Introduce yourself if you are not already known by everyone]. *I would like to start a preprint journal club (JC) in our department.*
 
-*I recently joined ASAPbio’s effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with preprints, preprints are complete pieces of scientific work that have not yet been peer-reviewed or published. 
+*I recently joined [ASAPbio](http://asapbio.org/)’s effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with preprints, preprints are complete pieces of scientific work that have not yet been peer-reviewed or published. 
 The main advantages of posting a preprint are that i) you, the author(s), can immediately share your work with the scientific community (but really with everyone, since preprints are open access, i.e., free!) without having to wait for the publisher’s timeline, and ii) the community can comment on the manuscript, potentially improving your work and, since preprints are dynamic articles, you can incorporate the feedback and upload revisions.* 
 
-*Discussing preprints at JC will be beneficial to us as we will get to know the advancement in our field 6-1 year earlier than we would if we waited for the publication. At the end of each JC, we will compile our comments into a review and either post it as a public comment in the server the hosts the preprint, or send it to the authors via email. In addition to this being useful to the authors and others who are interested in the science, I see posting reviews as an opportunity for early career researchers like myself to learn how to write a peer review.*
+*Discussing preprints at JC will be beneficial to us as we will get to know the advancement in our field 6 months to 1 year earlier than we would if we waited for the publication. At the end of each JC, we will compile our comments into a review and either post it as a public comment in the server that hosts the preprint, or send it to the authors via email. In addition to this being useful to the authors and others who are interested in the science, I see posting reviews as an opportunity for early career researchers like myself to learn how to write a peer review.*
 
 [Here you can either invite people to join the first meeting you have already scheduled] 
 *Our first meeting will be on … at the .... Join us and let’s learn together!*
@@ -40,9 +40,9 @@ The main advantages of posting a preprint are that i) you, the author(s), can im
 
 *Dear students, postdocs, and faculty,*
 
-*I am … [Introduce yourself if you are not already known by everyone]. I would like to start a preprint journal club (JC) in our department.*
+*I am* … [Introduce yourself if you are not already known by everyone]. *I would like to start a preprint journal club (JC) in our department.*
 
-*I recently joined ASAPbio’s effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with preprints, preprints are complete pieces of scientific work that have not yet been peer-reviewed or published. The idea is to discuss a preprint at each meeting and compile our comments into a preprint peer review that we can post on the server that hosts the preprint or we can send directly to the authors. 
+*I recently joined [ASAPbio](http://asapbio.org/)’s effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with preprints, preprints are complete pieces of scientific work that have not yet been peer-reviewed or published. The idea is to discuss a preprint at each meeting and compile our comments into a preprint peer review that we can post on the server that hosts the preprint or we can send directly to the authors.*
 
 [Here you can either invite people to join the first meeting you have already scheduled] 
 *Our first meeting will be on … at the .... Join us and let’s learn together!*
