@@ -165,7 +165,7 @@ beta-tester reviews. This file will not only document the success of our project
 itself: a rich set of reviews that ECRs can read and learn from.  
 
 
-__18.How will you continue work on this project beyond this funding period? (250 words)__  
+__18. How will you continue work on this project beyond this funding period? (250 words)__  
 
 First of all, our Starter Kit as well as our surveys’ questions will be shared openly on our GitHub repo 
 (https://github.com/SamanthaHindle/preprint_JournalClub) so that anyone interested will be able to contribute and/or fork the 
