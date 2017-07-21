@@ -133,7 +133,7 @@ We don’t foresee risks associated with our project, but we do recognize the po
 to change their attitudes towards scientific publishing – particularly without a change in incentives. Despite the increasing 
 evidence that shows how posting a preprint can improve the quality of the research – as the authors potentially get feedback from 
 their peers prior to submission for publication, as well as increase the visibility of the work, preprints are not widely used by 
-academics. We hope that the funding provided by this project will help to incentivize ECRs to integrate preprints into their JC 
+academics. We hope that the funding provided to this project will help to incentivize ECRs to integrate preprints into their JC 
 practices and make an example than senior researchers will follow. We intend to provide a $25 gift card as a further incentive for 
 our beta testers to complete the project.
 
