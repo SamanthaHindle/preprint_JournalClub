@@ -12,6 +12,8 @@ efforts within the needs of the broader community.
 All projects should specifically reflect priorities that enhance our broader community efforts toward open innovation, efficiency in regards to practicing open science (lower barriers, ease of use & integration, etc), and reproducibility (transparent research methods & results).
 Questions!!
 
+### Questions  
+
 1. __What institution are you based at currently, if any?__  
 University of California San Francisco and Oregon Health & Science University
 
