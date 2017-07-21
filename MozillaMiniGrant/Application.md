@@ -14,27 +14,27 @@ Questions!!
 
 ### Questions  
 
-1. __What institution are you based at currently, if any?__  
+__1. What institution are you based at currently, if any?__  
 University of California San Francisco (Samantha) and Oregon Health & Science University (Daniela).
 
 2. __Have you previously received a grant from Mozilla Foundation? If so, list the amount and purpose of the grant.__  
 No.
 
-3. __Proposal Title__  
+__3. Proposal Title__  
 Preprint Journal Club Starter Kit
 
-4. __Provide a brief description of your project or event. (50 words)__  
+__4. Provide a brief description of your project or event. (50 words)__  
 We are passionate about Open Science and we believe preprints can help to promote this. 
 The Preprint Journal Club Starter Kit project aims to provide resources to encourage and facilitate the hosting of 
 preprint journal clubs at different research institutions around the world.
 
-5. __Total proposal budget in US Dollars (USD).__
+__5. Total proposal budget in US Dollars (USD).__  
 $2,000
 
-6. __How much money in USD are you requesting from the Mozilla Foundation?__
+__6. How much money in USD are you requesting from the Mozilla Foundation?__  
 $2,000
 
-7. __List your partners, if any, and the role/s they will play. (250 Words)__   
+__7. List your partners, if any, and the role/s they will play. (250 Words)__   
 
 Samantha Hindle and Daniela Saderi will be the primary leaders of this project. 
 Samantha is an Assistant Professional Researcher at the University of California San Francisco and Daniela is a Ph.D. candidate 
@@ -51,14 +51,14 @@ ASAPbio, a non profit organization born from the need of changing the culture ar
 Professor at the University of Kansas Medical Center, and is an ASAPbio Ambassador. She has led a Prerprint JC course for her students 
 the past Fall and has generously shared her material and her experience with us.
 
-8. __On which Internet health issue(s) does your proposal focus? (Select all that apply.)__
+__8. On which Internet health issue(s) does your proposal focus? (Select all that apply.)__  
 Open Innovation
 
-9. __Are you requesting support for an event (e.g. workshop, training, hack-a-thon, or other event) or a project 
+__9. Are you requesting support for an event (e.g. workshop, training, hack-a-thon, or other event) or a project 
 (e.g. open software, curriculum, or other project)?__  
 Project
 
-10. __Describe the issue/problem you are trying to address. (100 words)__   
+__10. Describe the issue/problem you are trying to address. (100 words)__   
 
 Publishing in the biological sciences has become a lengthier process over the past 30 years and can take 6-12 months from journal 
 submission to publication. Preprints, free and immediately available versions of scientific manuscripts that have not yet undergone 
@@ -67,7 +67,7 @@ to incorporate preprints into Journal Club (JC) practices. According to our Mozs
 Preprint JC and 83% felt that writing a preprint review would provide beneficial training for Early Career Researchers (ECRs). 
 
 
-11. __List key project activities (what will you do), outputs (what will be produced through your activities, e.g. products, 
+__11. List key project activities (what will you do), outputs (what will be produced through your activities, e.g. products, 
 publications, number of people trained) and outcomes (impact of your project on your beneficiaries during the grant period). (1000 words)__  
 
 __Key activities:__  
@@ -91,7 +91,7 @@ The beta testers will be asked to:
 To provide a baseline to compare the data to, we will also ask either the same alfa and beta testers (if appropriate) or other 
 randomly selected researchers that normally host conventional JCs to tell us about their own success level and obstacles. 
 
-__Outputs:__
+__Outputs:__  
 Our main outputs from this project will be to collect quantifiable data from each phase. We expect to collect:  
   a) One set of feedback from our 5 alpha testers;
   b) One set of feedback from the two Preprint JC run by our 20 beta testers;
@@ -101,12 +101,12 @@ Our main outputs from this project will be to collect quantifiable data from eac
   e) Forty Preprint reviews posted online either as comments to the discussed preprint (e.g., comment in bioRxiv) or using servers 
   such as Authorea (they have expressed some interest on Twitter), The Winnower (host of Prachee’s students reviews), or Publons.
 
-__Outcomes:__
+__Outcomes:__  
 Our project will provide incentives for other researchers to host Preprint JCs in their own institutions, which will promote the 
 awareness of preprints and their benefits across the world. As we aim to enroll beta testers that are widely distributed across 
 the globe, and from a variety of career stages, we hope to gain a rich dataset via our user and preprint author surveys. This will allow us to scientifically assess the usefulness of Preprint JCs and their associated reviews.
 
-12. __Provide key indicators you plan to use to measure project outcomes and source of data. (500 words)__  
+__12. Provide key indicators you plan to use to measure project outcomes and source of data. (500 words)__  
 Our main project goal is to initiate and maintain Preprint JCs in host institutions across the globe. As we plan to collect 
 quantifiable feedback throughout the two phases of our projects, we will be able to gauge the effectiveness of our guidelines and 
 improve them based on survey results.
@@ -116,20 +116,18 @@ and opinion about preprints and if they found it a useful exercise to learn how 
 
 A final key indicator for our project outcomes will be the results of our Preprint Corresponding Author surveys, which will indicate whether reviews from Preprint JCs were beneficial and therefore integrated into their manuscript prior to publication.
 
-
-
-13. __Explain who will benefit from the project. (50 words)__  
+__13. Explain who will benefit from the project. (50 words)__  
 
 Early career researchers (ECRs) will be the primary beneficiaries as they will become familiarized with preprints as well as 
 learn how to write a constructive peer review. The ASAPbio community will also benefit from this project as it will provide an 
 opportunity to engage in a preprint collaboration.  
 
-14. __Describe the geographic location(s) in which this project will be implemented. (100 words)__
+__14. Describe the geographic location(s) in which this project will be implemented. (100 words)__  
 We are currently trying to recruit alpha and beta-testers from different research institutions around the world. 
 We are hoping to take advantage of the global Mozilla community to reach a diverse community of scientists. As a result of the 
 Mozilla Global Sprint, we already have a list of potential beta-testers from our community opinion survey respondents.
 
-15. __List any risks or challenges that may affect the overall success of your project, and note how Mozilla and/or others 
+__15. List any risks or challenges that may affect the overall success of your project, and note how Mozilla and/or others 
 can help you to overcome these challenges. (250 words)__   
 We don’t foresee risks associated with our project, but we do recognize the potential challenges associated with getting academics 
 to change their attitudes towards scientific publishing – particularly without a change in incentives. Despite the increasing 
@@ -139,7 +137,7 @@ academics. We hope that the funding provided by this project will help to incent
 practices and make an example than senior researchers will follow. We intend to provide a $25 gift card as a further incentive for 
 our beta testers to complete the project.
 
-16. __Is this a new project or a continuation? If new, please describe your qualifications to initiate the activity. 
+__16. Is this a new project or a continuation? If new, please describe your qualifications to initiate the activity. 
 If continued, please describe your accomplishments to date. Feel free to include links to articles and documents online which 
 highlight your recent work. (1000 words)__  
 The Preprint JC, led by Daniela Saderi and Samantha Hindle, is a new project built from the work initiated by ASAPbio. 
@@ -159,7 +157,7 @@ Daniela is a Ph.D candidate in Neuroscience at Oregon Health & Science Universit
 the whole community via online repositories. This practice has been a hugely positive experience for both students and preprint 
 authors, who have expressed thanks for the comments.   
 
-17. __Mozilla works in the open. How will you document and share your project progress with the community. (250 words)__  
+__17. Mozilla works in the open. How will you document and share your project progress with the community. (250 words)__  
 The PreprintJC project is an open project and all our resources are accessible through the repository at 
 https://github.com/SamanthaHindle/preprint_JournalClub. We aim to release the results of our surveys through our repository after 
 our beta-testing stage of our project is complete. We will also create a repository file that will house links to all 40 of our 
@@ -167,7 +165,7 @@ beta-tester reviews. This file will not only document the success of our project
 itself: a rich set of reviews that ECRs can read and learn from.  
 
 
-18. __How will you continue work on this project beyond this funding period? (250 words)__  
+__18.How will you continue work on this project beyond this funding period? (250 words)__  
 
 First of all, our Starter Kit as well as our surveys’ questions will be shared openly on our GitHub repo 
 (https://github.com/SamanthaHindle/preprint_JournalClub) so that anyone interested will be able to contribute and/or fork the 
