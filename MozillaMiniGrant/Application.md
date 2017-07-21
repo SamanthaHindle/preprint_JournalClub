@@ -20,7 +20,7 @@ University of California San Francisco (Samantha) and Oregon Health & Science Un
 2. __Have you previously received a grant from Mozilla Foundation? If so, list the amount and purpose of the grant.__  
 No.
 
-3. __Proposal Title__
+3. __Proposal Title__  
 Preprint Journal Club Starter Kit
 
 4. __Provide a brief description of your project or event. (50 words)__  
