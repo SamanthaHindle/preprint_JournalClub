@@ -15,7 +15,7 @@ Questions!!
 ### Questions  
 
 1. __What institution are you based at currently, if any?__  
-University of California San Francisco and Oregon Health & Science University
+University of California San Francisco (Samantha) and Oregon Health & Science University (Daniela).
 
 2. __Have you previously received a grant from Mozilla Foundation? If so, list the amount and purpose of the grant.__  
 No.
