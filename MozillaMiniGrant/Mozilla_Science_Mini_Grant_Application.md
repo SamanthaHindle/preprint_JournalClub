@@ -81,23 +81,22 @@ Preprint JC, their opinion on our Starter Kit, and what they think we should cha
 *Phase II*: Beta-testing. We will enroll 20 researchers from diverse research areas and countries as beta testers. This grant would 
 allow us to provide each beta tester with $75 to host two successful JCs (starting on October 1st) by buying snacks and coffee/drinks. 
 In our experience, refreshments are key to attract ECRs to institutional events. 
-The beta testers will be asked to:
-	a) Host two Preprint JCs in their own department following our Preprint JC Starter Kit;	
-  b) Write a review for each discussed preprint following our Review Worksheet;
-	c) Email the reviews to each preprint’s corresponding author(s) and upload them online (platform TBD);
-	b) Fill out our Beta Tester Feedback Survey;
-  c) Document attendees’ reactions and experiences with discussing a preprint and providing feedback to the authors by having them fill 
-  out our short Preprint JC Participant Survey.  
+The beta testers will be asked to:  
+	a) Host two Preprint JCs in their own department following our Preprint JC Starter Kit;	 
+  	b) Write a review for each discussed preprint following our Review Worksheet;  
+	c) Email the reviews to each preprint’s corresponding author(s) and upload them online (platform TBD);  
+	b) Fill out our Beta Tester Feedback Survey;  
+  	c) Document attendees’ reactions and experiences with discussing a preprint and providing feedback to the authors by having them fill out our short Preprint JC Participant Survey.  
 To provide a baseline to compare the data to, we will also ask either the same alfa and beta testers (if appropriate) or other 
 randomly selected researchers that normally host conventional JCs to tell us about their own success level and obstacles. 
 
 __Outputs:__  
 Our main outputs from this project will be to collect quantifiable data from each phase. We expect to collect:  
-  a) One set of feedback from our 5 alpha testers;
-  b) One set of feedback from the two Preprint JC run by our 20 beta testers;
-  c) One set of feedback from all Preprint JC attendees combined;
+  a) One set of feedback from our 5 alpha testers;  
+  b) One set of feedback from the two Preprint JC run by our 20 beta testers;  
+  c) One set of feedback from all Preprint JC attendees combined;  
   d) One set of feedback from the preprint corresponding authors (possibly via another short survey that we are hoping the authors 
-  will be willing to engage with);
+  will be willing to engage with);  
   e) Forty Preprint reviews posted online either as comments to the discussed preprint (e.g., comment in bioRxiv) or using servers 
   such as Authorea (they have expressed some interest on Twitter), The Winnower (host of Prachee’s students reviews), or Publons.
 
