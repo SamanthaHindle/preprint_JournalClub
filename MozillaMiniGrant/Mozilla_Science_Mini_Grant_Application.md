@@ -82,11 +82,11 @@ Preprint JC, their opinion on our Starter Kit, and what they think we should cha
 allow us to provide each beta tester with $75 to host two successful JCs (starting on October 1st) by buying snacks and coffee/drinks. 
 In our experience, refreshments are key to attract ECRs to institutional events. 
 The beta testers will be asked to:  
-	a) Host two Preprint JCs in their own department following our Preprint JC Starter Kit;	 
+	a) Host two Preprint JCs in their own department following our Preprint JC Starter Kit;	  
   	b) Write a review for each discussed preprint following our Review Worksheet;  
 	c) Email the reviews to each preprint’s corresponding author(s) and upload them online (platform TBD);  
 	b) Fill out our Beta Tester Feedback Survey;  
-  	c) Document attendees’ reactions and experiences with discussing a preprint and providing feedback to the authors by having them fill out our short Preprint JC Participant Survey.  
+  	d) Document attendees’ reactions and experiences with discussing a preprint and providing feedback to the authors by having them fill out our short Preprint JC Participant Survey.  
 To provide a baseline to compare the data to, we will also ask either the same alfa and beta testers (if appropriate) or other 
 randomly selected researchers that normally host conventional JCs to tell us about their own success level and obstacles. 
 
