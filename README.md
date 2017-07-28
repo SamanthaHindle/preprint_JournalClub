@@ -1,4 +1,3 @@
-![Alt-text](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/logo.png)
 ## WELCOME to Preprint Journal Club!
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/preprint_JournalClub/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) 
