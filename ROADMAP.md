@@ -7,7 +7,7 @@ Read more about our vision in the [README.md](https://github.com/SamanthaHindle/
 
 ### Timeline
 
-#### Phase I (June-August 2017)
+#### Phase I (June-September 2017)
 
 - [x] **Write and distribute [Community Building Preprint JC Survey](https://docs.google.com/forms/d/e/1FAIpQLSdMphGFDxwCfGgmEj-CzbkdVZJs-atV1gHZPE6ZB13xNF8HIw/viewform?usp=sf_link)**
 - [ ] **Develop Preprint Starter Kit**. Resources: [Prachee's syllabus](http://asapbio.org/10-ways)
