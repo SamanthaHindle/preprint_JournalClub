@@ -23,7 +23,7 @@ During this phase we will enroll 20 researchers from diverse research areas and 
 The beta testers will be asked to:
  * Host two Preprint JCs in their own department following our Preprint JC Starter Kit;    
  * Write a review for each discussed preprint following our Review Worksheet;
- * Email the reviews to each preprint’s corresponding author(s) and upload them online (PREreview preprintJC platform, and/or direct comments on the server hosting the preprint (e.g. [bioRxiv](http://www.biorxiv.org/)))
+ * Email the reviews to each preprint’s corresponding author(s) and upload them at [PREreview preprintJC platform](www.prereview.org), and/or direct comments on the server hosting the preprint (e.g. [bioRxiv](http://www.biorxiv.org/)))
  * Fill out our Beta Tester Feedback Survey;
  * Document attendees’ reactions and experiences with discussing a preprint and providing feedback to the authors, by having them fill out a short Preprint JC Participant Survey.  
     
