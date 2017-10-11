@@ -16,7 +16,7 @@ Read more about our vision in the [README.md](https://github.com/SamanthaHindle/
 
 #### Phase II (October-December 2017)
 
-- [ ] Organize a [beta-tester community](https://github.com/SamanthaHindle/preprint_JournalClub/projects/4) to test the Preprint JC Starter Kit
+- [ ] Organize a beta-tester community (see below) to test the Preprint JC Starter Kit
 - [ ] Get feedback from beta testers
 
 During this phase we will enroll 20 researchers from diverse research areas and countries as beta testers. 
