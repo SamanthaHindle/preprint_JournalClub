@@ -11,13 +11,13 @@ Read more about our vision in the [README.md](https://github.com/SamanthaHindle/
 
 - [x] **Write and distribute [Community Building Preprint JC Survey](https://docs.google.com/forms/d/e/1FAIpQLSdMphGFDxwCfGgmEj-CzbkdVZJs-atV1gHZPE6ZB13xNF8HIw/viewform?usp=sf_link)**
 - [x] **Develop Preprint Starter Kit**. Resources: [Prachee's syllabus](http://asapbio.org/10-ways)
-- [ ] **Alpha testing.** We will engage five ASAPbio ambassadors that are already hosting Preprint JCs to be our alpha testers. We will ask them to commit to one Preprint JC using our Starter Kit. The materials provided will include a sample email to send out to the department announcing the Preprint JC, a guide to discovering preprints on the web, Preprint JC Guidelines for the host, a Preprint Review Worksheet, a Preprint JC flyer template, and a Preprint info sheet containing an infographic description of what preprints are and how they can help advance scientific knowledge and reseacrhers' career. We will then ask our alpha testers to complete a feedback survey that will detail their experience as hosts of a Preprint JC and feedback on the Starter Kit.
+- [x] **Alpha testing.** We will engage five ASAPbio ambassadors that are already hosting Preprint JCs to be our alpha testers. We will ask them to commit to one Preprint JC using our Starter Kit. The materials provided will include a sample email to send out to the department announcing the Preprint JC, a guide to discovering preprints on the web, Preprint JC Guidelines for the host, a Preprint Review Worksheet, a Preprint JC flyer template, and a Preprint info sheet containing an infographic description of what preprints are and how they can help advance scientific knowledge and reseacrhers' career. We will then ask our alpha testers to complete a feedback survey that will detail their experience as hosts of a Preprint JC and feedback on the Starter Kit.
 
 
 #### Phase II (October-December 2017)
 
-- [ ] Organize a beta-tester community (see below) to test the Preprint JC Starter Kit
-- [ ] Get feedback from beta testers
+- [x] Organize a beta-tester community (see below) to test the Preprint JC Starter Kit
+- [x] Get feedback from beta testers
 
 During this phase we will enroll 20 researchers from diverse research areas and countries as beta testers. 
 The beta testers will be asked to:
