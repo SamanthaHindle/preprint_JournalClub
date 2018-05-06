@@ -1,21 +1,18 @@
-## WELCOME to Preprint Journal Club!
+## WELCOME to PREreview Preprint Journal Club!
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/preprint_JournalClub/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) 
+![images/square-logo-slack-icon.png](images/square-logo-slack-icon.png)(https://join.slack.com/t/prereview/shared_invite/enQtMzYwMjQzMTk3ODMxLTZhOWQ5M2FmMTY5OTYzZDNhNDg2ZDdhODE2Y2Y4MTVjY2U0OWRiZTA5ZjM3MWM1ZTY0N2E1ODYyNWM1NTc2NDg)
 
 *"If you want to be one year behind, don’t read bioRxiv”* – Jeff Leek
 
-We are scientists and [ASAPbio](http://asapbio.org/) Ambassadors who want to encourage other scientists to post their scientific outputs as Preprints. We hope to do that by making it easier to start and run a Preprint Journal Club, or integrate preprint review into conventional journal clubs.
+We are scientists and [ASAPbio](http://asapbio.org/) Ambassadors who want to encourage other scientists to post their scientific outputs as Preprints. We hope to do that by making it easier to start and run a preprint journal club, or integrate preprint review into conventional journal clubs.
 
 ### What are preprints?
-[Preprints](https://www.authorea.com/users/8850/articles/168656-what-is-a-preprint) are complete pieces of scientific work that have not yet been peer reviewed or published. Preprints are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that they become available to the whole web community within 1-2 days from submission.
+Preprints are complete pieces of scientific work that have not yet been peer reviewed or published. Preprints are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that they become available to the whole web community within 1-2 days from submission.
 
 Learn more about preprints:  
-https://en.wikipedia.org/wiki/Preprint  
-https://www.authorea.com/users/2/articles/169587-the-preprint-citation-bump  
-https://researchpreprints.com/  
-https://www.youtube.com/watch?v=OjxRAhdbJu8&feature=youtu.be&t=5m36s
-https://en.wikipedia.org/wiki/List_of_academic_journals_by_preprint_policy
-
+[PREreview preprint info doc](https://prereview.org/users/153686/articles/200859-preprint-info-doc)
+[What are preprints? video](https://www.youtube.com/watch?v=2zMgY8Dx9co&feature=youtu.be)
+[Preprint on Wikipedia](https://en.wikipedia.org/wiki/Preprint) 
 
 ### How can preprints help fix the problems in publishing in biology?
 Publishing in the biological sciences has become a much lengthier process over the past 30 years and can take 1-2 years from journal submission to final publication. During this peer review process the manuscript can change substantially, which can be 
@@ -27,17 +24,17 @@ beneficial but can also remove information that can be useful to other scientist
 
 ### Who are "we" anyway?
 
-The Preprint JC, led by Daniela Saderi and Samantha Hindle, is a new project built from the work initiated by ASAPbio. Samantha and Daniela are both [ASAPbio Ambassadors](http://asapbio.org/asapbio-ambassadors), which is a large and diverse community of people dedicated to spreading the word about preprints in their own institutions and scientific communities.
- 
-**Samantha** is an Assistant Professional Researcher at the University of California San Francisco and, since ASAPbio’s inception, has closely coordinated with the ASAPbio Founder Ron Vale and Director Jessica Polka. Samantha has co-hosted Preprint Town Hall meetings at her home institution and has represented ASAPbio at Open Science meetings. Samantha also has substantial experience in writing manuscript reviews and is well placed to develop resources for this project.  
+Daniela and Sam are two neuroscientists driven by a common passion for improving the scientific ecosystem by creating a more open and communal way of doing science. Since we met in April 2017, we have worked relentlessly in our ‘spare time’ to craft and nurture our desire to see preprints adopted and valued by other scientists. In September of 2017 we founded PREreview.org, a free platform of the collaborative writing of preprint reviews. On [PREreview.org](https://prereview.org/) you will find resources to start preprint journal clubs, including [email templates](https://prereview.org/users/164141/articles/205430-how-to-start-a-prereview-journal-club-tips-email-templates) and [guidelines](https://prereview.org/users/164141/articles/200820-prereview-guidelines-how-to-write-a-preprint-review) on how to write a constructive review of a scientific manuscript. 
+
+**Samantha** is the content lead at bioRxiv and, since ASAPbio’s inception, has closely coordinated with the ASAPbio Founder Ron Vale and Director Jessica Polka. Samantha has co-hosted Preprint Town Hall meetings at her home institution and has represented ASAPbio at Open Science meetings. Samantha also has substantial experience in writing manuscript reviews and is well placed to develop resources for this project.  
 Twitter: @HindleSamantha
  
-**Daniela** is a Ph.D candidate in the Neuroscience Graduate Program at Oregon Health & Science University and open science advocate. Daniela has been coordinating a conventional (postprint) [Systems Neuroscience Journal Club](https://hearingbrain.org/systemsjournalclub.php) for four years. Under Daniela’s encouragement, in the past few months the group  has begun to discuss preprints with the goal of sending comments to the authors and the whole community via online repositories. This practice has so far been a positive experience for both students and preprint authors, who have expressed thanks for the comments.  
+**Daniela** is a Ph.D candidate in the Neuroscience Graduate Program at Oregon Health & Science University and open science advocate. Daniela has been coordinating a conventional (postprint) [Systems Neuroscience Journal Club](https://hearingbrain.org/systemsjournalclub.php) for four years. Under Daniela’s encouragement, in the past year months the group  has begun to discuss preprints with the goal of sending comments to the authors and the whole community via online repositories. This practice has so far been a positive experience for both students and preprint authors, who have expressed thanks for the comments.  
 Twitter: @Neurosarda
 
 ### How can you get involved?
 For guidlines on how to contribute to this project, please check out our [CONTRIBUTING.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/CONTRIBUTING.md) file.  
-You can also email us at PreprintJC@gmail.com.  
+You can also email us at preprintjc@gmail.com.  
 
 Get involved in the wider preprint community projects by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors). To join the *ASAPbio Ambassadors Slack Team*, email preprintjc@gmail.com to request an invite.
 
