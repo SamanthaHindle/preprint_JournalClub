@@ -36,13 +36,12 @@ __5. Join us on our first ever [live, digital preprint journal club](https://git
 
 One of the main goals of our preprint JC project is to increase the diversity and inclusivity of the peer review process. To achieve this goal we are focusing on early career researchers and providing resources to lower the barrier to starting a preprint journal club. However, we realized that simply providing resources isn't always enough to level the playing field for  all early career researchers. Therefore, we decided to launch a series of online, digital preprint journal clubs to allow anyone with an internet connection to join the discussions, no matter where you are in the world. We will host our first ever live, digital preprint JC here at #Mozsprint2018 and we will start with a preprint about open science. Check out our issue here for more details. We hope to learn from you what worked well and what we can improve for future field-specific digital preprintJCs! Please join us and help us make peer review more inclusive! :heartdecoration: :heart: :heartdecoration:
 
-__6. Help us develop our [Peer Review Mentoring Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/12):__
+__6. Help us develop our [Peer Review Mentoring Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/12):__  
+We are passionate about supporting the training of early career researchers in peer review. When we started thinking about how to structure the training program, we thought "who better to turn to for guidance on building a community-based program: MOZILLA!" We had the fortune to learn from the **amazing Mozilla Open Leaders Program** and we would like to bring that energy, organizational prowess, and top-quality resources to our PREreview community. Please help us get our Mentoring Program off to a great start! Check out our [plan so far](https://github.com/SamanthaHindle/preprint_JournalClub/issues/12)  
 
+__7. Add useful links and comments to our [RESOURCES.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/RESOURCES.md) file:__  
 
-
-__7. Add useful links and comments to our [RESOURCES.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/RESOURCES.md) file:__
-
-__8. If you would like to join the PREreview community and start your own PreprintJC, sign up [here]()__
+__8. If you would like to join the PREreview community and start your own PreprintJC, sign up [here]()__  
 
 
 ### How to report bugs?
