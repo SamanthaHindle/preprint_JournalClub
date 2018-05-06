@@ -26,7 +26,7 @@ This is ideal for anyone who wants to learn more about preprints or how best to 
  
 __2. If you are already discussing preprints at journal clubs, fill out our PREPRINT JC COMMUNITY FORM__ 
 
-3. __Help us distribute the PREPRINT JC COMMUNITY FORM  and build a community using social media (#PreprintJC)__
+__3. Help us distribute the PREPRINT JC COMMUNITY FORM  and build a community using social media (#PreprintJC)__
 
 __4. Join our [PREreview Ambassadors Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/13):__<br/>
 
