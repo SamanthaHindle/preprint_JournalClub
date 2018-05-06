@@ -18,18 +18,17 @@ Thank you soooooo much for reading this far! We are really excited that you want
 
 * __Join our live Ask Me Anything: [#MozPREpreintAMA](https://github.com/SamanthaHindle/preprint_JournalClub/issues/14)__
 
-This is ideal for anyone who wants to learn more about preprints or how best to start your own preprint journal club. We will have experts onboard who are excited about answering your questions such as: 
- - "What is a preprint?" 
- - "What licensing option should I chose when I submit my preprint?"
- - "How can I encourage my lab mates to discuss preprints at journal clubs?" and 
- - "Where can I learn more about writing up my preprint review?"
-
+This is ideal for anyone who wants to learn more about preprints or how best to start your own preprint journal club. We will have experts onboard who are excited about answering your questions such as:  
+"What is a preprint?"  
+"What licensing option should I chose when I submit my preprint?"<br/>
+"How can I encourage my lab mates to discuss preprints at journal clubs?" and  
+"Where can I learn more about writing up my preprint review?"<br/>
  
 * __If you are already discussing preprints at journal clubs, fill out our PREPRINT JC COMMUNITY FORM__ 
 
 * __Help us distribute the PREPRINT JC COMMUNITY FORM  and build a community using social media (#PreprintJC)__
 
-* __Join our [PREreview Ambassadors Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/13):__
+* __Join our [PREreview Ambassadors Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/13):__<br/>
 
 We have a PREreview Ambassadors Slack Team where we share news about PREreview and updates to our resources. We also celebrate each new PREreview that is posted on our platform. **Most importantly**, we provide support for Ambassadors who are new to the idea of preprint JCs by generating a __community of experienced PREreviewers__ who are eager to share tips about running a preprint JC and great ways to make it easier to write up your first PREreview.
 
