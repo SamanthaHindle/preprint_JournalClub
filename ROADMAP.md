@@ -37,14 +37,15 @@ To provide a baseline to compare the data to, we will also ask either the same a
 
 #### Outputs:
 The main outputs of this project will be to collect quantifiable data from each phase. We expect to collect:
-* One set of feedback from our 5 alpha testers;
-* One set of feedback from the two Preprint JC run by our 20 beta testers;
-* One set of feedback from all Preprint JC attendees combined;
-* One set of feedback from the preprint corresponding authors (possibly via another short survey that we are hoping the authors will be willing to engage with);
-* Forty Preprint reviews posted online either as comments to the discussed preprint (*e.g.*, comment on bioRxiv) or using servers such as PREreview (powered by Authorea), Academic Karma, or Publons.
+
+* One set of feedback from the two Preprint JC run by our 20 beta testers (via a short survey);
+* One set of feedback from the preprint corresponding authors (via a short survey);
+* Forty Preprint reviews posted on PREreview (powered by Authorea).
  
 #### Outcomes:
 Our project will provide incentives for other researchers to host Preprint JCs in their own institutions, which will promote the awareness of preprints and their benefits across the world. As we aim to enroll beta testers that are widely distributed across the globe, and from a variety of career stages, we hope to gain a rich dataset via our user and preprint author surveys. This will allow us to scientifically assess the usefulness of Preprint JCs and their associated reviews.
+
+Furthermore, one of our primary aims is to increase the diversity and inclusivity of the peer review process, by helping to support the training of a new pool of early career researchers. As part of Phase III, we are designing and implementing a Mozilla-style Peer Review Mentoring Program. Based on the Mozilla Open Leaders (MOL) course, we will bring together ECRs from all over the globe, who are keen to develop their peer reviewing skills, and pair them up with a mentor who will guide them through the peer review process. Read more about our program here and please get involved! :heart: :heart: :heart:
  
 
 ### How to get involved
