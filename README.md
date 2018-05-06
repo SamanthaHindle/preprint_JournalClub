@@ -1,5 +1,7 @@
 # WELCOME to PREreview Preprint Journal Club!
 
+![PREreview_banner](PREreview_banner.png)
+
 **[Join our PREreview Slack Channel](https://join.slack.com/t/prereview/shared_invite/enQtMzYwMjQzMTk3ODMxLTZhOWQ5M2FmMTY5OTYzZDNhNDg2ZDdhODE2Y2Y4MTVjY2U0OWRiZTA5ZjM3MWM1ZTY0N2E1ODYyNWM1NTc2NDg)**
 
 *"If you want to be one year behind, don’t read bioRxiv”* – Jeff Leek
