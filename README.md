@@ -10,9 +10,9 @@ We are scientists and [ASAPbio](http://asapbio.org/) Ambassadors who want to enc
 Preprints are complete pieces of scientific work that have not yet been peer reviewed or published. Preprints are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that they become available to the whole web community within 1-2 days from submission.
 
 Learn more about preprints:  
-[PREreview preprint info doc](https://prereview.org/users/153686/articles/200859-preprint-info-doc)
-[What are preprints? video](https://www.youtube.com/watch?v=2zMgY8Dx9co&feature=youtu.be)
-[Preprint on Wikipedia](https://en.wikipedia.org/wiki/Preprint) 
+[PREreview preprint info doc](https://prereview.org/users/153686/articles/200859-preprint-info-doc)  
+[What are preprints? video](https://www.youtube.com/watch?v=2zMgY8Dx9co&feature=youtu.be)  
+[Preprint on Wikipedia](https://en.wikipedia.org/wiki/Preprint)   
 
 ## How can preprints help fix the problems in publishing in biology?
 Publishing in the biological sciences has become a much lengthier process over the past 30 years and can take 1-2 years from journal submission to final publication. During this peer review process the manuscript can change substantially, which can be 
