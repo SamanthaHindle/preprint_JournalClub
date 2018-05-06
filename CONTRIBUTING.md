@@ -10,7 +10,7 @@ Before getting started with contributing, please:
 Please report any unacceptable behavior to PreprintJC@gmail.com.
 
 ### What are we working on right now?
-Right now we are at Stage I of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md)). We have a shared google folder called [PreprintJC_shared_folder](https://drive.google.com/open?id=1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM) that contains the developing Preprint JCs Starter Kit material and a couple of example preprint JC feedback reviews (they are not meant to be the best examples). Feel free to add your own review to a preprint as a google doc.
+Right now we are finalizing Stage II and also working on Phase III of this project (check out our [ROADMAP.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/ROADMAP.md)). We have a shared google folder called [PreprintJC_shared_folder](https://drive.google.com/open?id=1RmH0yhNtL0l75zYtwCELbaiRRwgyfXAVHu-SceMlyCM) that contains the developing Preprint JC Starter Kit materials, and you can also find the most up-to-date resources and example preprint reviews on our platform: [PREreview.org](https://prereview.org). If you would like to add your own review of a preprint, we would love to welcome you to the PREreview community. You can sign up and publish your review by [following these simple steps](https://prereview.org/users/8850/articles/199648-getting-started-on-prereview-a-step-by-step-guide). 
 
 These are some tasks for you if you want to contribute at this stage: 
  
