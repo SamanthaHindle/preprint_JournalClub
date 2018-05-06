@@ -16,7 +16,7 @@ Right now we are finalizing Stage II and also working on Phase III of this proje
 
 Thank you soooooo much for reading this far! We are really excited that you want to help us and become part of the PREreview community! Here are some great first issues that we would absolutely :heart: your help with:
 
-#### __Join our live Ask Me Anything: [#MozPREpreintAMA](https://github.com/SamanthaHindle/preprint_JournalClub/issues/14)__
+__1. Join our live Ask Me Anything: [#MozPREpreintAMA](https://github.com/SamanthaHindle/preprint_JournalClub/issues/14)__
 
 This is ideal for anyone who wants to learn more about preprints or how best to start your own preprint journal club. We will have experts onboard who are excited about answering your questions such as:  
 * "What is a preprint?"  
@@ -24,25 +24,25 @@ This is ideal for anyone who wants to learn more about preprints or how best to 
 * "How can I encourage my lab mates to discuss preprints at journal clubs?" and  
 * "Where can I learn more about writing up my preprint review?"<br/>
  
-#### __If you are already discussing preprints at journal clubs, fill out our PREPRINT JC COMMUNITY FORM__ 
+__2. If you are already discussing preprints at journal clubs, fill out our PREPRINT JC COMMUNITY FORM__ 
 
-#### __Help us distribute the PREPRINT JC COMMUNITY FORM  and build a community using social media (#PreprintJC)__
+3. __Help us distribute the PREPRINT JC COMMUNITY FORM  and build a community using social media (#PreprintJC)__
 
-#### __Join our [PREreview Ambassadors Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/13):__<br/>
+__4. Join our [PREreview Ambassadors Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/13):__<br/>
 
 We have a PREreview Ambassadors Slack Team where we share news about PREreview and updates to our resources. We also celebrate each new PREreview that is posted on our platform. **Most importantly**, we provide support for Ambassadors who are new to the idea of preprint JCs by generating a __community of experienced PREreviewers__ who are eager to share tips about running a preprint JC and great ways to make it easier to write up your first PREreview.
 
-#### __Join us on our first ever [live, digital preprint journal club](https://github.com/SamanthaHindle/preprint_JournalClub/issues/):__
+__5. Join us on our first ever [live, digital preprint journal club](https://github.com/SamanthaHindle/preprint_JournalClub/issues/):__
 
 One of the main goals of our preprint JC project is to increase the diversity and inclusivity of the peer review process. To achieve this goal we are focusing on early career researchers and providing resources to lower the barrier to starting a preprint journal club. However, we realized that simply providing resources isn't always enough to level the playing field for  all early career researchers. Therefore, we decided to launch a series of online, digital preprint journal clubs to allow anyone with an internet connection to join the discussions, no matter where you are in the world. We will host our first ever live, digital preprint JC here at #Mozsprint2018 and we will start with a preprint about open science. Check out our issue here for more details. We hope to learn from you what worked well and what we can improve for future field-specific digital preprintJCs! Please join us and help us make peer review more inclusive! :heartdecoration: :heart: :heartdecoration:
 
-#### __Help us develop our [Peer Review Mentoring Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/12):__
+__6. Help us develop our [Peer Review Mentoring Program](https://github.com/SamanthaHindle/preprint_JournalClub/issues/12):__
 
 
 
-#### __Add useful links and comments to our [RESOURCES.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/RESOURCES.md) file:__
+__7. Add useful links and comments to our [RESOURCES.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/RESOURCES.md) file:__
 
-#### __If you would like to join the PREreview community and start your own PreprintJC, sign up [here]()__
+__8. If you would like to join the PREreview community and start your own PreprintJC, sign up [here]()__
 
 
 ### How to report bugs?
