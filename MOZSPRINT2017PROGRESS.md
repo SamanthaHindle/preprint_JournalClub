@@ -1,0 +1,17 @@
+## PREreview’s Progress Since Mozsprint2017!
+
+* June 1-2, 2017: Sam and Daniela attended the Mozilla Global Sprint (Sam, from Mountain View, CA, and Daniela, from Portland, OR) and developed the first [Preprint Journal Club Community Survey](https://goo.gl/forms/dItKvE0OoSGvy5y63) that was launched shortly after. The survey was closed at the end of August with 102 participants (survey results summarized [here](https://prereview.org/users/153686/articles/206118-preprint-journal-clubs-your-opinions-revealed). During the Sprint we also applied for the Mozilla Mini Grant and were awarded $2,000 later in September ([full application here](https://prereview.org/users/164141/articles/282554-mozilla-mini-grant-application-june-3-2017)).
+* September 15, 2017: Thanks to the help of Josh Nicholson and the rest of the Authorea team, we launched PREreview.org and started to upload our developed resources. We started a @PREreview_ Twitter account to spread the word to the community.
+* October 25, 2017: Thanks to Naomi Penfold, we posted an overview of our work at PREreview on [eLIFE Labs](https://elifesciences.org/labs/57d6b284/prereview-a-new-resource-for-the-collaborative-review-of-preprints).
+* October 27-28, 2017: We attended the Mozilla Festival and led a session on preprints and the future of scholarly publication (summary and notes from the session [here](https://prereview.org/users/164141/articles/209014-mozfest-2017-session-changing-the-scientific-publishing-ecosystem-preprints-and-beyond)).
+* November, 2017: We officially started our beta testing phase recruiting 18 volunteer beta testers (guideline for beta testers [here](https://prereview.org/users/164141/articles/264761-prereview-beta-testing-phase-here-is-how-you-can-help)). We are still collecting feedback from PREreview journal club participants and preprint authors in the form of participant and author surveys. We will share these results once our beta testing phase is complete.
+* January 30, 2018: We announced our amazing [Advisory Board](https://prereview.org/users/153686/articles/254102-prereview-meet-our-advisory-board).
+* February 7-8, 2018: We wrote a commentary for the HHMI/ASAPbio/Wellcome Trust Transparency, Recognition, and Innovation in Peer Review in the Life Sciences meeting in the hope of gaining support and collaborative partnerships from meeting attendees and the wider community. Sam attended the meeting and spoke with several stakeholders about incentivizing ECRs to start their own preprint journal clubs and use PREreview. 
+* March 4, 2018: We were interviewed by Flavio Rump of bio2040, a podcast and blog dedicated to uncovering the biggest opportunities in healthcare and biotech. This episode will be released in the next few weeks.
+* March 13, 2018: Collaboration established with Almetric to integrate PREreviews into their peer review metrics. 
+* March 20, 2018: PREreviews are now discoverable from the appropriate bioRxiv preprints (e.g., [here](https://www.biorxiv.org/content/early/2017/09/20/170506)). 
+* March 23, 2018: We held our first Advisory Board meeting were we discussed our past achievements and mapped out our future roadmap
+* March 23, 2018: Monica Granados joined the PREreview Team
+* May 10-11, 2018: Daniela will join the eLife Innovation Sprint in Cambridge and Sam will join Monica at the Mozilla Global Sprint in Toronto. During the sprints, we will focus on building community engagement and content for the Ambassador Program we plan to launch in summer 2018.
+
+### Watch this space...
