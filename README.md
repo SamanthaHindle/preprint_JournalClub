@@ -39,6 +39,7 @@ Twitter: @HindleSamantha
 Twitter: @Neurosarda
 
 **Monica** is a post-doctoral fellow at the Wildlife Conservation Society and the University of Guelph. She is a staunch advocate of open science having designed several courses to teach scientists how to practice in the open. Monica mentored this project in the fourth cohort of the Mozilla Open Leaders and has been an instrumental member of our Advisory Board since January 2018. We now welcome her as a new team member. 
+Twitter: @Monsauce
 
 ## How can you get involved?
 For guidlines on how to contribute to this project, please check out our [CONTRIBUTING.md](https://github.com/SamanthaHindle/preprint_JournalClub/blob/master/CONTRIBUTING.md) file.  
