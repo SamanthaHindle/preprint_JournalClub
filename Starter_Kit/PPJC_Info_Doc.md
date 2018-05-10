@@ -30,7 +30,7 @@ Although incorporation of preprints into journal club practices should be a rela
  
  
 ### Where can you find preprints?
-There are various preprint repositories (see below) and also website platforms where you can search all/most of the preprint repositories, including [Prepubmed](http://www.prepubmed.org/), [Publons](https://publons.com/home/), [The Winnower](https://thewinnower.com/), and  [Academic Karma](http://academickarma.org/) (please let us know at preprintjc@gmail.com if we missed any).
+There are various preprint repositories (see below) and also website platforms where you can search all/most of the preprint repositories, including [Prepubmed](http://www.prepubmed.org/), [Publons](https://publons.com/home/), [The Winnower](https://thewinnower.com/), OSF SHARE, and  [Academic Karma](http://academickarma.org/) (please let us know at preprintjc@gmail.com if we missed any).
  
 Below is a list of all the preprint repositories that post findings in the biological sciences:
  
