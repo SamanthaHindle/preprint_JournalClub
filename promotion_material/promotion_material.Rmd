@@ -1,0 +1,35 @@
+---
+title: "video"
+author: "colomb_julien"
+date: "5/11/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## existing material
+
+```{r, echo=FALSE}
+list = read_csv("videolist.csv",
+                col_types=cols(
+  link = col_character(),
+  subject = col_character(),
+  length_s = col_integer(),
+  type_of_video = col_character(),
+  subjective_quality_JC = col_character()
+))
+DT::datatable(list)
+```
+
+
+## ideas for new videos
+
+- preprint versus regular journal article: taking the MAC against PC series(https://en.wikipedia.org/wiki/Get_a_Mac)
+
+## putative partners
+
+- julien Colomb, Jena Germany
